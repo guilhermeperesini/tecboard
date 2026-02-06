@@ -33,7 +33,7 @@ h1 {
 }
 
 h1 span {
-    color: #9747FF;
+    color: #41cf8d;
 }
 
 p {
@@ -50,7 +50,7 @@ a {
     font-family: "Poppins", sans-serif;
     font-size: 24px;
     text-decoration: none;
-    background-color: #9747FF;
+    background-color: #41cf8d;
     display: block;
     height: 66px;
     width: 340px;
@@ -61,7 +61,7 @@ a {
 }
 
 a:hover {
-    background-color: #8233E8;
+    background-color: #6ae7ad;
 }
 
 section img {
